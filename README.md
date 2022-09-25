@@ -1,18 +1,13 @@
-## Getting Started
+## 시작하기에 앞서
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+이 프로그램은 Visual Studio Code를 이용해 만든 자바 프로젝트 입니다.  
+사용에 유의해주시기 바랍니다.
 
-## Folder Structure
+## 기능
 
-The workspace contains two folders by default, where:
+왠만한 기능들은 터미널을 통해 사용법을 알려드릴 예정입니다.
+따라서 이곳에는 어떠한 기능들이 존재하는지 간단하게 적어놓기만 하겠습니다.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `에어컨 가동`: 말 그대로 에어컨을 가동하는 기능이 있습니다
+- `목표온도 설정`: 에어컨의 목표온도를 설정하는 기능이 있습니다.
+- `랜덤 기본온도 설정`: 주변 공간의 온도를 24°C ~ 34°C 사이의 랜덤한 온도로 자동설정하는 기능이 있습니다.
