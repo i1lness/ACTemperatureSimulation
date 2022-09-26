@@ -2,6 +2,8 @@
 
 이 프로그램은 Visual Studio Code를 이용해 만든 자바 프로젝트 입니다.  
 사용에 유의해주시기 바랍니다.  
+(자바 확장팩이 적용된 상태에서 만들었습니다)  
+[[자바 확장팩 다운로드 링크]](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)  
 또한 이 프로그램은 가상의 공간에 있는 에어컨을 작동시키는 프로그램이며
 현실에는 적용이 불가능합니다.
 
